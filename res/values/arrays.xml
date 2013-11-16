@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_event_dialog_array">
+        <item >Create Event</item>
+        <item >Add Event from Calendar</item>
+    </string-array>
+    
+    <string-array name="repeating_days_array">
+        <item >Monday</item>
+        <item >Tuesday</item>
+        <item >Wednesday</item>
+        <item >Thursday</item>
+        <item >Friday</item>
+        <item >Saturday</item>
+        <item >Sunday</item>
+    </string-array>
+
+        <string-array name="ringer_silent_array">
+        <item >Vibrate</item>
+        <item >Silent</item>
+    </string-array>
+    
+</resources>

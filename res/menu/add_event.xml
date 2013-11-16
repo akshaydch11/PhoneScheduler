@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/item_aboutThisApp"
+        android:title="@string/about_this_app">
+    </item>
+    <item
+        android:id="@+id/item_rateThisApp"
+        android:title="@string/rate_this_app">
+    </item>
+
+</menu>

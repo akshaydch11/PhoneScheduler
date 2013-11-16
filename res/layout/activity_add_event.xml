@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddEventActivity" >
+
+    <Button
+        android:id="@+id/addEventActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onAddEventClick"
+        android:text="@string/add_create_event_button" />
+
+    <ListView
+        android:id="@android:id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/addEventActivity"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp" >
+
+    </ListView>
+
+</RelativeLayout>
