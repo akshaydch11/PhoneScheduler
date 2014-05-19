@@ -4,7 +4,7 @@ So with this app you need not worry anymore about manually switching your phone 
 Simply put in your schedule, choose your toggles and set the event, and forget about it, the app will do the rest for you.
 
 DOWNLOAD:
-![alt Download](https://play.google.com/store/apps/details?id=com.eventscheduler)
+https://play.google.com/store/apps/details?id=com.eventscheduler
 
 
 SCREENSHOTS : 
